@@ -1,3 +1,3 @@
 👋
 
-some old stuff: @ziyasal-archive @PanteonProject etc
+>`some old stuff`: @ziyasal-archive @PanteonProject etc
