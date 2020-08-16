@@ -7,4 +7,4 @@ I do:
 - **Mentor other developers** in delivering great online services and user experiences, guidance on career development
 - **Collborate  effectively** in geo-distributed and large multidisciplinary teams
 
-`old stuff:` @ziyasal-archive @PanteonProject etc
+`old stuff:` [@ziyasal-archive](https://github.com/ziyasal-archive) [@PanteonProject](https://github.com/PanteonProject) etc
