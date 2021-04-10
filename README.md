@@ -5,6 +5,7 @@ I'm a programmer who specialized in algorithms, distributed systems, online feat
 @Zalando prev: @Microsoft @HERE @Trendyol etc..
 
 I do:
+- **Make it faster**
 - **Collaborate with teams** on the design and requirements for the offline/online user experiences
 - **Build and enhance online services** and APIs with a cloud-native mindset around reliability patterns, and scale-out strategies and emphasize testability, extensibility, and performance.
 - **Drive common technology strategy** across departments
