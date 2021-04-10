@@ -6,7 +6,7 @@ I'm a programmer who specialized in algorithms, distributed systems, online feat
 
 I do:
 - **Make it faster**
-- **Identify problems and design solutions** and lead to execution with collaborating with people/teams teams
+- **Identify problems and design solutions** and lead to execution with collaborating with people/team(s)
 - **Collaborate with teams** on the design and requirements for the offline/online user experiences
 - **Build and enhance online services** and APIs with a cloud-native mindset around reliability patterns, and scale-out strategies and emphasize testability, extensibility, and performance.
 - **Drive common technology strategy** across departments
