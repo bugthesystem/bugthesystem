@@ -2,7 +2,7 @@
 
 I'm a programmer who specialized in algorithms, distributed systems, online features for games and SRE also likes to tackle performance problems alongside a variety of challenges.
 
-Sr. SRE @@Zalando, prev: @Microsoft @HERE @Trendyol (Alibaba Group) etc..
+**Sr. SRE** [@Zalando](https://github.com/zalando), prev: [@Microsoft](https://github.com/microsoft) [@HERE](https://github.com/heremaps) [@Trendyol (Alibaba Group)](https://github.com/Trendyol) etc..
 
 
 I do:
