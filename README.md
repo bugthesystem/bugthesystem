@@ -1,4 +1,4 @@
-👋 Hi, I’m @bugthesystem
+👋 Hi, I’m Ziλa (@bugthesystem)
 
 I'm a programmer who specialized in algorithms, distributed systems, online features for games and SRE also likes to tackle performance problems alongside a variety of challenges.
 
