@@ -2,7 +2,7 @@ Hi there 👋🏾
 
 I'm a programmer who specialized in algorithms, distributed systems, online features for games and SRE also likes to tackle performance problems alongside a variety of challenges.
 
-currrently Head of X @Y prev. @Zalando, @Microsoft @HERE @Trendyol etc..
+prev. @Zalando, @Microsoft @HERE @Trendyol etc..
 
 I do:
 - **Make it faster**
