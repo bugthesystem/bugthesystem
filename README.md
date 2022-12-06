@@ -8,6 +8,6 @@ I'm an experienced programmer,  who specialized in algorithms, distributed syste
 - Highly motivated with strong interpersonal skills, experienced to work successfully with multi-functional teams, principles, and architects and coordinate effectively across organizational boundaries and geographies
 - Have a strong focus on performance, it's a feature
 
-prev. @Zalando, @Microsoft @HERE @Trendyol etc..
+prev. [@Zalando](https://github.com/zalando), [@Microsoft](https://github.com/microsoft), [@HERE](https://github.com/heremaps) there..
 
 `old stuff:` [@ziyasal-archive](https://github.com/ziyasal-archive) [@PanteonProject](https://github.com/PanteonProject) etc
