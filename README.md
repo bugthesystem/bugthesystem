@@ -1,16 +1,13 @@
 Hi there 👋🏾
 
-I'm a programmer who specialized in algorithms, distributed systems, online features for games and SRE also likes to tackle performance problems alongside a variety of challenges.
+I'm an experienced programmer,  who specialized in algorithms, distributed systems, infrastructure, online features (ie games),  SRE, and leadership also likes to tackle performance problems alongside a variety of challenges.
+
+• Experienced in developing fast, scalable, computing systems, and backend services with a cloud-native mindset around microservices, reliability patterns, and scale-out strategies by applying SRE practices
+• Have a solid technical foundation in distributed computing and storage, including significant experience with most of the following: server systems, storage, I/O, networking, data structures, concurrency, fault-tolerance, scalable runtime systems, and systems software
+• Experienced in technical leadership and large-scale architecture that impacted critical projects
+• Highly motivated with strong interpersonal skills, experienced to work successfully with multi-functional teams, principles, and architects and coordinate effectively across organizational boundaries and geographies
+• Have a strong focus on performance, it's a feature
 
 prev. @Zalando, @Microsoft @HERE @Trendyol etc..
-
-I do:
-- **Make it faster**
-- **Identify problems and design solutions** and lead to execution with collaborating with people/team(s)
-- **Collaborate with teams** on the design and requirements for the offline/online user experiences
-- **Build and enhance online services** and APIs with a cloud-native mindset around reliability patterns, and scale-out strategies and emphasize testability, extensibility, and performance.
-- **Drive common technology strategy** across departments
-- **Mentor other developers** in delivering great online services and user experiences, guidance on career development
-- **Collborate  effectively** in geo-distributed and large multidisciplinary teams
 
 `old stuff:` [@ziyasal-archive](https://github.com/ziyasal-archive) [@PanteonProject](https://github.com/PanteonProject) etc
