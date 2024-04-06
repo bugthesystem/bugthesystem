@@ -1,6 +1,6 @@
 Hi there 👋🏾
 
-I'm an experienced programmer,  who specialized in algorithms, distributed systems, infrastructure, online features (ie games),  SRE, and leadership also likes to tackle performance problems alongside a variety of challenges.
+I'm an experienced programmer,  who specialized in algorithms, distributed systems,high performance compute infrastructure, realtime systems,  SRE, and leadership also likes to tackle performance problems alongside a variety of challenges.
 
 - Experienced in developing fast, scalable, computing systems, and backend services with a cloud-native mindset around microservices, reliability patterns, and scale-out strategies by applying SRE practices
 - Have a solid technical foundation in distributed computing and storage, including significant experience with: server systems, storage, I/O, networking, data structures, concurrency, fault-tolerance, scalable runtime systems, and systems software
